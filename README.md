@@ -42,13 +42,15 @@ I enjoy learning new technologies, creating visually appealing projects, and sol
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricReyesMilian&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
+
 ---
 
 ## Competitive programming
 ### 📊 My Codeforces Stats
+
 <div align="center">
 <a  href="https://codeforces.com/profile/your_handle">
-  <img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=figurante=radical" alt="Codeforces Stats Card"/>
+  <img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=figurante&theme=radical" alt="Codeforces Stats Card"/>
 </a>
 </div>
 
