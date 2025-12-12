@@ -57,10 +57,12 @@ I enjoy learning new technologies, creating visually appealing projects, and sol
 ---
 
 # 📫 Contact Me
-- ✉️ Email: ericreyesmilian05@gmail.com  
+<p align="center">
 
+[![Telegram](https://img.shields.io/badge/Telegram-%40EricReyes19-0088cc.svg)](https://t.me/ericreyes19)
+[![Gmail](https://img.shields.io/badge/Gmail-%40ericreyesmilian05@gmail.com-ff0000.svg)](ericreyesmilian05@gmail.com)
 ---
-
+</p>
 <p align="center">
   <b>✨ Thanks for visiting my profile! ✨</b><br>
   <sub>Always exploring new ideas, technologies, and creative challenges.</sub>
