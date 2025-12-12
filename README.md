@@ -20,19 +20,14 @@ I enjoy learning new technologies, creating visually appealing projects, and sol
 # 🛠️ Technical Skills
 
 ### 🎮 **Game Development**
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Simulation](https://img.shields.io/badge/Simulation-1D72F3?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=unity&perline=6" />
 
 ### 🧠 **General Programming**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=c++&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=cs,cpp,python,git&perline=5" />
 
 ### 🌐 **Frontend Development**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,js,html,css&perline=5" />
 
 ---
 
@@ -47,6 +42,15 @@ I enjoy learning new technologies, creating visually appealing projects, and sol
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricReyesMilian&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
+---
+
+## Competitive programming
+### 📊 My Codeforces Stats
+<div align="center">
+<a  href="https://codeforces.com/profile/your_handle">
+  <img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=figurante=radical" alt="Codeforces Stats Card"/>
+</a>
+</div>
 
 ---
 
